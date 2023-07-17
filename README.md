@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ENViN-27
 - 👀 I’m interested in competitive programming and coding in general.
-- 🌱 I’m currently learning python and c.
+- 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me is a thing yet to be discovered.
 
